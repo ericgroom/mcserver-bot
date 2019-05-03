@@ -1,0 +1,10 @@
+# python
+venv/
+__py_cache__/
+*.pyc
+
+# editor
+.vscode/
+
+# secrets
+.env
